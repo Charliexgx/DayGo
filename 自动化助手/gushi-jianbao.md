@@ -9,7 +9,7 @@
 
 ## 工作流
 
-1. 按 `config/sources.json` 的关键词检索最新 A 股新闻、行情、板块、资金、公告和政策。
+1. 按 `config/sources.json` 的关键词检索最新 A 股新闻、上证指数、深证成指、创业板、科创板等行情、板块、资金、公告和政策。
 2. 交叉核验关键数字；无法确认的数据必须标注“待核验”。
 3. 生成 `briefings/YYYY-MM-DD.md`。
 4. 更新 `briefings/README.md`。
